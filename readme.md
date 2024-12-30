@@ -5,6 +5,7 @@
 Movie Lens is a feature-packed, dynamic web application built with **ReactJS**, **Redux**, and **SCSS**, integrated with the **TMDB API** to provide real-time data on movies and TV shows. This project demonstrates modern web development practices and aims to deliver an engaging and responsive user experience.
 
 🌍 **[Live Demo](https://movielens-two.vercel.app/)** | 📂 **[Repository](https://github.com/Saurabh2244/Movie-Lens)**  
+
 ---
 
 ## 🌟 Features
@@ -142,7 +143,5 @@ If you found this project helpful or inspiring, feel free to:
 - **Follow** me for more exciting and impactful projects in the future.
 
 ## 💫 **Built with Passion & Code by Saurabh Chaudhari** 💻❤️
----
 
-**Enjoy exploring Movie Lens!** 🎬🍿
 
