@@ -4,6 +4,7 @@
 
 Movie Lens is a feature-packed, dynamic web application built with **ReactJS**, **Redux**, and **SCSS**, integrated with the **TMDB API** to provide real-time data on movies and TV shows. This project demonstrates modern web development practices and aims to deliver an engaging and responsive user experience.
 
+🌍 **[Live Demo](https://movielens-two.vercel.app/)** | 📂 **[Repository](https://github.com/Saurabh2244/Movie-Lens)**  
 ---
 
 ## 🌟 Features
@@ -107,25 +108,6 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400)
-
-### Movie Details
-![Movie Details](https://via.placeholder.com/800x400)
-
-### Search Results
-![Search Results](https://via.placeholder.com/800x400)
-
----
-
-## 🌍 Deployment
-
-The application is live on **Vercel**. Check it out here: [Movie Lens Live Demo](https://your-vercel-link-here.com)
-
----
-
 ## 🤝 Contributions
 
 Contributions are welcome! Follow these steps:
@@ -147,15 +129,19 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📄 License
+## 📧 **Stay Connected**:
+Let's stay connected! You can follow me on:
+- **GitHub**: [Saurabh2244](https://github.com/Saurabh2244)
+- **LinkedIn**: [Saurabh N Chaudhari](https://www.linkedin.com/in/saurabh-n-chaudhari-624725287/)
+- **Email**: [saurabhdada2244@gmail.com](mailto:saurabhdada2244@gmail.com)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## 💖 **Show Your Support**:
+If you found this project helpful or inspiring, feel free to:
+- ⭐ **Star** the repository on GitHub to show your support.
+- **Share** the project with others who may benefit from it.
+- **Follow** me for more exciting and impactful projects in the future.
 
----
-
-### 💬 Feedback
-If you have any questions, suggestions, or feedback, feel free to [open an issue](https://github.com/Saurabh2244/Movie-Lens/issues).
-
+## 💫 **Built with Passion & Code by Saurabh Chaudhari** 💻❤️
 ---
 
 **Enjoy exploring Movie Lens!** 🎬🍿
